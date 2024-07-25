@@ -63,6 +63,7 @@ class Test_Login(unittest.TestCase):
             msg = self.buy_tickets.page_buy_get_error_info()
             try:
                 self.assertEqual(msg,expect_result)
+                sleep(10)
                 # 点击确认框
                 self.buy_tickets.page_buy_click_button_OK()
                 # 回退三次到火车票界面
@@ -78,7 +79,7 @@ class Test_Login(unittest.TestCase):
             except AssertionError:
                 self.buy_tickets.base_screenshot()
 
-            # sleep(10)
+
 
 
 
