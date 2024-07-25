@@ -14,5 +14,5 @@ __This is the result of a successful login__
 __This is the result of a failed ticket purchase__  
 ![购票失败](https://github.com/1void1/Web-Automated-Testing/blob/main/result/%E8%B4%AD%E7%A5%A8%E5%A4%B1%E8%B4%A5.jpg)  
 __This is the result of a successful ticket purchase__  
-![购票成功](https://github.com/1void1/Web-Automated-Testing/blob/main/result/%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.jpg)  
+![购票成功](https://github.com/1void1/Web-Automated-Testing/blob/main/result/%E8%B4%AD%E7%A5%A8%E6%88%90%E5%8A%9F.jpg)  
 
